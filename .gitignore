@@ -1,0 +1,50 @@
+# Directorios de compilación
+/build/
+*/build/
+*.iml
+
+# Archivos generados de Gradle y caches
+.gradle/
+.idea/
+local.properties
+*.keystore
+*.jks
+
+# Archivos de configuración de Android Studio
+/.idea/
+*.iws
+*.ipr
+*.iml
+
+# Caché de dependencias de Gradle
+.gradle/
+gradle.properties
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.properties
+
+# Archivos de depuración y logs
+/.cxx/
+/captures/
+/outputs/
+/tmp/
+*.log
+
+# APKs, Bundles y archivos de compilación
+*.apk
+*.aab
+*.dex
+
+# Archivos de configuración de VS Code (opcional)
+.vscode/
+
+# Archivos sensibles (evita subir claves)
+key.properties
+*.keystore
+*.jks
+
+# Imágenes y contenido de cache de Android
+*.png
+*.webp
+.DS_Store
+Thumbs.db
